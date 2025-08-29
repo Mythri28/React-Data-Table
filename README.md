@@ -1,1 +1,1 @@
-https://github.com/Mythri28/React-Data-Table/commit/ec708f306a2abdb8120c7be915925d646f2dc573#diff-87b90e92bb8b257306868b9208e431f77781cfb51ae6f61a7659ddc7bb61ab19
+<img width="915" height="766" alt="image" src="https://github.com/user-attachments/assets/49a5ae62-684e-4e17-8bed-b91e6b87901d" />
