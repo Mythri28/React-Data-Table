@@ -6,5 +6,7 @@ Data Table
 Search
 
 
+<img width="738" height="781" alt="image" src="https://github.com/user-attachments/assets/e566ae31-be54-4e5b-8d53-970c714e6af9" />
+Pagination
 
 
